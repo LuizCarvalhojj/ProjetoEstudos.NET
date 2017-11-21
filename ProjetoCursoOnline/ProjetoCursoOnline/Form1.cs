@@ -19,7 +19,7 @@ namespace ProjetoCursoOnline
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("VQV MALUCO");
+            MessageBox.Show("VQV MALUCO SEJA FELIZ");
         }
     }
 }
